@@ -67,10 +67,6 @@ I actively use a diverse set of languages and tools in my repositories:
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rajatha19)  
-- [GitHub](https://github.com/Rajatha19)  
 - 📧 Email: rajathashetty1430@gmail.com  
-- 📱 Phone: +91 6360752469  
 
 ---
-
-> *“Always learning, always building. Let’s connect and innovate together!”*
